@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADLI Riad</h1>
-<h3 align="center">Full-Stack Developer & Aspiring AI Engineer from Algeria</h3>
+<h3 align="center">Full-Stack Developer & Aspiring AI Engineer </h3>
 
 
 
