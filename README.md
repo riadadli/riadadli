@@ -17,7 +17,7 @@
 
 - 🔭 Always pushing boundaries through **open-source contributions** and personal projects
 
-- 📫 How to reach me: **adli.riad.dev@gmail.com**
+- 📫 How to reach me: **riadadli983@gmail.com**
 
 - ⚡ Fun fact: **AI and debugging both fuel my curiosity!**
 
