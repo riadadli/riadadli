@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADLI Riad</h1>
 <h3 align="center">Full-Stack Developer & Aspiring AI Engineer from Algeria</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adli-riad&label=Profile%20views&color=0e75b6&style=flat" alt="adli-riad" />
-</p>
+
 
 - 👨‍💻 I’m a **Full-Stack Developer** with experience in web and mobile development
 
