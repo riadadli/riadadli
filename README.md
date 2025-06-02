@@ -59,7 +59,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riadadli&show_icons=true&locale=en" alt="adli-riad" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariadadli&" alt="adli-riad" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riadadli&" alt="adli-riad" />
 </p>
 
 ---
