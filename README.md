@@ -56,10 +56,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adli-riad&show_icons=true&locale=en" alt="adli-riad" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riadadli&show_icons=true&locale=en" alt="adli-riad" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adli-riad&" alt="adli-riad" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariadadli&" alt="adli-riad" />
 </p>
 
 ---
