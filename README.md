@@ -79,20 +79,25 @@
 
 Here are some cool projects I'm working on or have completed:
 
-- 🎬 **[Netflix Clone](https://github.com/riadadli/netflix-clone)** – React-based frontend with Firebase authentication
-- 💼 **[Portfolio Website](https://github.com/riadadli/portfolio)** – Personal developer portfolio with animations and responsive UI
-- 📝 **[Blog Platform](https://github.com/riadadli/mern-blog)** – MERN stack blog app with markdown editor and admin panel
-- 🤖 **[AI Experiments](https://github.com/riadadli/ai-lab)** – In progress: experiments with machine learning models, data analysis, and AI tools
+- 🎬 **[Netflix Clone](https://github.com/riadadli/netflix-clone)** – React-based frontend with Firebase authentication  
+- 💼 **[Portfolio Website](https://github.com/riadadli/portfolio)** – Personal developer portfolio with animations and responsive UI  
+- 📝 **[Blog Platform](https://github.com/riadadli/mern-blog)** – MERN stack blog app with markdown editor and admin panel  
+- 🤖 **[AI Experiments](https://github.com/riadadli/ai-lab)** – In progress: experiments with machine learning models, data analysis, and AI tools  
+- 🛠️ **[MenuisierLaNomade-MVC](https://github.com/riadadli/MenuisierLaNomade-MVC)** – MVC .NET project with Order, OrderItem, ShoppingCart, and Product models  
+- 🎄 **[CadeauNoel-AndroidApp](https://github.com/riadadli/CadeauNoel-AndroidApp)** – Android app in Java to manage Christmas gifts for kids with 3 interactive activities  
+- 🛒 **[SuperetteApp](https://github.com/riadadli/SuperetteApp-)** – Android Java app for managing a small grocery store (inventory, sales)  
+- 👗 **[Friperie-PHP](https://github.com/riadadli/Friperie-PHP)** – PHP app for managing a thrift shop with product catalog and sales  
+- 💻 **[CsAdoLaval-.NET](https://github.com/riadadli/CsAdoLaval-.NET)** – .NET dating site inspired by Tinder, with user profiles and matching system
 
 ---
 
 ### 🧠 AI Roadmap & Tools I’m Exploring
 
-- 📌 Machine Learning with Python (Scikit-Learn, Pandas, NumPy)
-- 📌 Neural Networks & Deep Learning (TensorFlow, PyTorch)
-- 📌 Natural Language Processing (NLP)
-- 📌 AI model deployment with FastAPI, Flask
-- 📌 Exploring OpenAI, HuggingFace, and LangChain
+- 📌 Machine Learning with Python (Scikit-Learn, Pandas, NumPy)  
+- 📌 Neural Networks & Deep Learning (TensorFlow, PyTorch)  
+- 📌 Natural Language Processing (NLP)  
+- 📌 AI model deployment with FastAPI, Flask  
+- 📌 Exploring OpenAI, HuggingFace, and LangChain  
 
 ---
 
